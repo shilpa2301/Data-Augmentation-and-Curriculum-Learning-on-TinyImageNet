@@ -10,7 +10,7 @@
 
 
 # Curriculum Learning using LGL
-#<img src='./readme_media/DonkeyCar.gif'>
+<img src='./readme_media/DonkeyCar.gif'>
 
 ![image](https://github.com/user-attachments/assets/d43e0a56-2182-4e4b-9af1-6d9cbcfc0630)
 
